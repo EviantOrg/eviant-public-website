@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Guides distributed by email — reachable by direct link, kept out of search.
+Disallow: /Eviant-Essential-Eight-Guide-v1.1.pdf
+
+Sitemap: https://www.eviant.com.au/sitemap-index.xml
